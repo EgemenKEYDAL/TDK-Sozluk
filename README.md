@@ -1,4 +1,4 @@
-# TDK Sözlük - Modern Türkçe Sözlük Uygulaması
+# [TDK Sözlük](https://www.egemenkeydal.com/scripts/tdk-sozluk) - [Modern Türkçe Sözlük Uygulaması](https://www.egemenkeydal.com/scripts/tdk-sozluk)
 
 Next.js 16 ve React 19 ile geliştirilmiş modern ve minimalist Türkçe sözlük web uygulaması. Türk Dil Kurumu'nun (TDK) resmi API'sini kullanarak Türkçe kelimelerin anlamlarını, örneklerini ve birleşik kelimelerini arayın ve keşfedin.
 
